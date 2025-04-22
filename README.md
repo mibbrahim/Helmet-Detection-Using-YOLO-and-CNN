@@ -26,6 +26,12 @@ A Flask-based web application for detecting whether individuals in a video are w
 - Annotated output video is generated and downloadable
 - Deployed using Render for live demo
 
+![Detected Frame 1](output.png)
+*YOLO + CNN detects helmets and non-helmet cases in uploaded video frames.*
+
+![Detected Frame 2](output2.png)
+*Real-time object detection highlights helmet usage violations.*
+
 ---
 
 ## Technology Stack
